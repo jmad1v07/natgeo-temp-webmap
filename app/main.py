@@ -6,7 +6,7 @@ from titiler.errors import DEFAULT_STATUS_CODES, add_exception_handlers
 from fastapi import FastAPI
 
 
-app = FastAPI(title="My simple app")
+app = FastAPI(title="Demo app")
 
 cog = TilerFactory()
 app.include_router(cog.router, tags=["Cloud Optimized GeoTIFF"])
