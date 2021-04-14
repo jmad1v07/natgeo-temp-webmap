@@ -1,4 +1,4 @@
-# Visualise deforesation-driven temperature change on a web map 
+# Visualise deforestation-driven temperature change on a web map 
 
 ## Setup
 
