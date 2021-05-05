@@ -3,7 +3,7 @@
 ## Setup
 
 ```
-pip install titiler 
+pip install titiler folium rio-tiler rio-cogeo matplotlib rasterio
 ```
 
 ### 1. Create COG
